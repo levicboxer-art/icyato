@@ -1,0 +1,12 @@
+{
+  "name": "cyato-tea",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cyato Tea Plantation & Factory Ltd — premium cinematic B2B website",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.js",
+    "dev": "node build.mjs && node server.js"
+  }
+}

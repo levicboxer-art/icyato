@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cyato Tea monogram">
+  <rect width="64" height="64" fill="#183B2A"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#B28B4B" stroke-width="1.4"/>
+  <path d="M43 22.5a14.5 14.5 0 1 0 0 19" fill="none" stroke="#F3EBDD" stroke-width="3" stroke-linecap="round"/>
+</svg>
